@@ -2298,4 +2298,3 @@ color:#ffbd2f;
         position: relative;
     }
 }
-.shapeDivider{position:absolute;width:100%;height:80px;bottom:-1px;left:0px;right:0px;overflow:hidden}.shapeDivider path{fill:#fff}.shapeDivider path:not(:first-child){opacity: .5}@media screen and (max-width: 880px){.shapeDivider{height:60px}@media screen and (max-width: 480px){.shapeDivider{height:50px}
