@@ -647,7 +647,7 @@ ul#nav1 {
 .header-logo-desc .type {
     position: relative;
 }
-.typed-cursor {
+/*.typed-cursor {
     font-weight: 300;
     font-size: 50px;
     color: #ffbd2f;
@@ -660,7 +660,7 @@ ul#nav1 {
     position: absolute;
     bottom: 0;
     display: inline-block;
-}
+}*/
 .fenix-head {
     display: table;
     width: 100%;
