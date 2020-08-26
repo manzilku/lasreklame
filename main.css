@@ -542,8 +542,9 @@ ul#nav1 {
 #header-wrapper {
     text-align: center;
     padding: 0;
-    background: url(https://2.bp.blogspot.com/-GhaQs-KcqCs/XVz8fXjM1cI/AAAAAAAAAa8/530YvlhTQ0ES-EdZWb9cXIRAxtU8lhB_ACLcBGAs/s1600/background.jpg) no-repeat center bottom;
+    background: url(https://cdn.statically.io/img/1.bp.blogspot.com/-NptKe-Vy9wc/X0XIM3TcvpI/AAAAAAAAAy0/lst0nc_kj1g2-8sov7yXpCRw--qxOBHEwCLcBGAsYHQ/s1600/latar.jpg) no-repeat center bottom;
     background-attachment: fixed;
+    background-position: center center;
     background-size: cover;
     margin-bottom: 10px;
     height: 100vh;
@@ -1044,9 +1045,9 @@ ul#nav1 {
     opacity: 1
 }
 .main-gallery {
-    background:url("https://4.bp.blogspot.com/-iRrHqJS9YCE/XLIYIlTE8tI/AAAAAAAAARA/AETExvwd0jAQpl3Wq8i2_v3Pm_PEYL3rwCLcBGAs/s1600/background.jpg") no-repeat;background-position:center
+    background:url("https://cdn.statically.io/img/4.bp.blogspot.com/-iRrHqJS9YCE/XLIYIlTE8tI/AAAAAAAAARA/AETExvwd0jAQpl3Wq8i2_v3Pm_PEYL3rwCLcBGAs/s1600/background.jpg") no-repeat;
+    background-position:center
 }
-
 .gallery-cell {
     width: 100%;
 }
