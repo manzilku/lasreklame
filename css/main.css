@@ -1490,7 +1490,7 @@ div#sora_blogger_cntct_form .clear-button {
   background: url(https://cdn.statically.io/img/4.bp.blogspot.com/-iRrHqJS9YCE/XLIYIlTE8tI/AAAAAAAAARA/AETExvwd0jAQpl3Wq8i2_v3Pm_PEYL3rwCLcBGAs/s1600/background.jpg) no-repeat;
   background-attachment: scroll;
   background-size: cover;
-  background-position: 50% 0;
+  background-position: center center;
   overflow: hidden;
   margin: 0 auto;
   padding: 40px 0;
