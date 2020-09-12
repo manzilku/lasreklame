@@ -194,7 +194,7 @@ $(function() {
 });
 jQuery(document)['ready'](function(hitung) {
     hitung('.counter-sora')['counterUp']({
-        delay: 5,
+        delay: 4,
         time: 1000
     })
 })
