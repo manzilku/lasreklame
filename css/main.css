@@ -1045,8 +1045,7 @@ ul#nav1 {
     opacity: 1
 }
 .main-gallery {
-    background:url("https://cdn.statically.io/img/4.bp.blogspot.com/-iRrHqJS9YCE/XLIYIlTE8tI/AAAAAAAAARA/AETExvwd0jAQpl3Wq8i2_v3Pm_PEYL3rwCLcBGAs/s1600/background.jpg") no-repeat fixed 50% 50%/cover;
-    background-position:center center;
+    background:url("https://cdn.statically.io/img/4.bp.blogspot.com/-iRrHqJS9YCE/XLIYIlTE8tI/AAAAAAAAARA/AETExvwd0jAQpl3Wq8i2_v3Pm_PEYL3rwCLcBGAs/s1600/background.jpg") no-repeat 50% 50%/auto;
 }
 .gallery-cell {
     width: 100%;
