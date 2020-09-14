@@ -684,10 +684,6 @@ ul#nav1 {
     margin: 0;
     padding: 0
 }
-.slide-in i {
-	color: white;
-	font-size: 25px;
-}
 .slide-in .pointer {
     position: absolute;
     top: 50%;
