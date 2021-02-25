@@ -1613,7 +1613,7 @@ article {
     font-size: 15px;
     line-height: 26px;
     box-sizing: border-box;
-    text-align: justify;
+    text-align: left;
 }
 .block-image {
     float: left;
