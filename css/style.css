@@ -107,7 +107,7 @@ opacity:0;
 .error_page .scroll-header {
     position: static;
     display: flex;
-    background: #4286f4 none repeat scroll top left;
+    background: #222222 none repeat scroll top left;
     box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.1);
     padding: 10px 0;
 }
