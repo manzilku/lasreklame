@@ -1429,12 +1429,18 @@ div#sora_blogger_cntct_form .clear-button {
     padding: 10px;
     box-sizing: border-box;
 }
-.map-me .con-title {font-family:"Calibri";
+.map-me .con-title {
     font-weight: 600;
     letter-spacing: 1px;
     line-height: 48px;
     color: #000;
     margin: 0;
+    text-transform: capitalize;
+}
+.con-title {
+    font-size: 25px;
+    line-height: 45px;
+    color: #000;
     text-transform: capitalize;
 }
 .map-me .con-text {
