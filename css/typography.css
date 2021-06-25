@@ -22,7 +22,7 @@ blockquote {
   padding: 10px 15px;
 }
 
-blockquote:before {
+/*blockquote:before {
   content: '\f10d';
   display: inline-block;
   font-family: FontAwesome;
@@ -46,7 +46,7 @@ blockquote:after {
   -moz-osx-font-smoothing: grayscale;
   margin-left: 10px;
   color: #888;
-}
+}*/
 
 .button {
   background-color: #2c3e50;
@@ -107,7 +107,7 @@ a.button {
   clear: both;
 }
 
-.demo:before {
+/*.demo:before {
   background-image: url("data:image/svg+xml,%3Csvg style='width:25px;height:25px;' viewBox='0 0 24 24'%3E%3Cpath fill='%23fff' d='M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9M12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17M12,4.5C7,4.5 2.73,7.61 1,12C2.73,16.39 7,19.5 12,19.5C17,19.5 21.27,16.39 23,12C21.27,7.61 17,4.5 12,4.5Z'/%3E%3C/svg%3E");
   content: '';
   margin-right: 5px;
@@ -153,7 +153,7 @@ a.button {
   line-height: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+}*/
 
 .widget .post-body ul,.widget .post-body ol {
   line-height: 1.5;
@@ -166,11 +166,11 @@ a.button {
   line-height: 1.5;
 }
 
-.post-body ul li:before {
+/*.post-body ul li:before {
   content: "\f105";
   margin-right: 5px;
   font-family: fontawesome;
-}
+}*/
 
 pre {
   font-family: Monaco, "Andale Mono", "Courier New", Courier, monospace;
@@ -194,7 +194,7 @@ pre {
   position: relative;
 }
 
-pre:before {
+/*pre:before {
   content: 'Code';
   display: block;
   background: #F7F7F7;
@@ -204,7 +204,7 @@ pre:before {
   padding-left: 7px;
   font-weight: 400;
   font-size: 14px;
-}
+}*/
 
 pre code,pre .line-number {
   display: block;
@@ -373,7 +373,7 @@ pre .cl {
   color: #F55D5D;
 }
 
-.fa-check-circle:before {
+/*.fa-check-circle:before {
   content: "\f058";
 }
 
@@ -387,7 +387,7 @@ pre .cl {
 
 .fa-exclamation-circle:before {
   content: "\f06a";
-}
+}*/
 
 .post-table table {
   border-collapse: collapse;
@@ -432,14 +432,14 @@ pre .cl {
     padding-left: 50%;
   }
 
-  .post-table td:before {
+  /*.post-table td:before {
     content: attr(data-label);
     display: inline-block;
     font-weight: bold;
     line-height: 1.5;
     margin-left: -100%;
     width: 100%;
-  }
+  }*/
 }
 
 @media (max-width: 20em) {
@@ -447,9 +447,9 @@ pre .cl {
     padding-left: 0.75em;
   }
 
-  .post-table td:before {
+  /*.post-table td:before {
     display: block;
     margin-bottom: 0.75em;
     margin-left: 0;
-  }
+  }*/
 }
