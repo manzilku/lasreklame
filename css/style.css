@@ -1254,10 +1254,10 @@ input#ContactForm1_contact-form-name, #ContactForm1_contact-form-email, #Contact
     box-shadow: none!Important;
     width: 100%;
     max-width: 100%;
-  background: transparent !important;
+    background: transparent !important;
     color: #fff;
     border-color: hsla(0,0%,100%,.15) !important;
-border-width:0 0 1px 0;
+    border-width:0 0 1px 0;
     line-height: 1em;
     min-height: 31px;
     margin-bottom: 15px;
@@ -1798,7 +1798,7 @@ article {
 /* CSS FOOTER */
 .bot-bar-menu {
     background-color: #222;
-    padding: 5px 0px;
+    padding: 10px 0px;
 overflow: hidden;
 }
 .bot-menu-wrap {
@@ -1809,8 +1809,9 @@ text-align:center;
 .jugas_footer_copyright {
     display: inline-block;
     color: #fff;
-height:52px;
-line-height:52px;font-weight:500
+    height:52px;
+    line-height:30px;
+    font-weight:400;
 }
 .jugas_footer_copyright a {
 color:#ffbd2f;
